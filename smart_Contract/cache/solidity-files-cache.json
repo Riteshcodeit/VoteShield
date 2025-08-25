@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\ACER\\Desktop\\VoteShield_asli\\smart_Contract\\contracts\\VoteShield.sol": {
+      "lastModificationDate": 1743776575165,
+      "contentHash": "641cbc1654d7c92457599d7d0acb0a78",
+      "sourceName": "contracts/VoteShield.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "VoteShield"
+      ]
+    }
+  }
+}

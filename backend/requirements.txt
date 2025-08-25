@@ -1,0 +1,8 @@
+flask
+flask-cors
+supabase
+python-dotenv
+numpy
+opencv-python
+face-recognition
+pickle-mixin
