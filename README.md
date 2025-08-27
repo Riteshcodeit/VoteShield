@@ -64,12 +64,4 @@ We welcome contributions! Please fork this repo, create a branch, and submit a p
 
 ---
 
-## 📬 Contact  
-- **Team**: BroCode  
-- **Email**: voteshield@example.com  
-- **GitHub**: [Your Repository Link]  
-- **Twitter**: [Your Twitter Handle]  
-
----
-
 ### 🚀 Join us in making elections **transparent, secure, and accessible** for everyone!  
